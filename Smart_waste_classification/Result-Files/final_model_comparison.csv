@@ -1,0 +1,4 @@
+Model,Test Accuracy,Weighted F1-Score
+SVM,62.89,0.63
+Random Forest,68.95,0.69
+CNN,58.16,0.58
